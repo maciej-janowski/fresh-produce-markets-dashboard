@@ -1,0 +1,43 @@
+body {
+  background: rgba(0, 128, 0, 0.3);
+  height: 150vh;
+}
+
+.score-cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.data-info-header {
+  color: white;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.label_styling {
+  background-color: black;
+  color: white;
+}
+
+#dropdowns-zjazdowa {
+  display: flex;
+  flex-direction: row;
+}
+
+#dropdowns-bronisze {
+  display: flex;
+  flex-direction: row;
+}
+
+#dropdowns-elizowka {
+  display: flex;
+  flex-direction: row;
+}
+
+.shopping-cart-header {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 30px;
+}
